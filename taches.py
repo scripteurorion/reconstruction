@@ -82,7 +82,7 @@ def menu():
                 print("entrer un nombre valide")
         
         elif choix == 5:
-            print("Au revoir")
+            print("Au revoir, a bientot")
             sauvegarder()
             break
         
