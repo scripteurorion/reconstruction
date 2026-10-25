@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+.venv/
+.git/
+*.json
+*.txt
+__pycache__/
+=======
 taches.json
 
 donnees_du_2026-10-19/
 donnees_du_2026-10-19/
+>>>>>>> 2c89ca179ad79613d3d6d20d865f0e140fcc4f34
